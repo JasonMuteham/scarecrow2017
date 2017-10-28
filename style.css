@@ -1,0 +1,22 @@
+body{
+        color: bisque;
+    background-image: url(images/spooky.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: 'Creepster', cursive;
+}
+.jumbotron{
+    background-color: rgba(255,0,0,0.6);
+
+    text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.8),
+                 0px 8px 13px rgba(0, 0, 0, 0.5),
+                0px 18px 23px rgba(0, 0, 0, 0.5);
+}
+.card-body{
+    background-color: rgb(255,0,0); 
+        text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.8),
+                 0px 8px 13px rgba(0, 0, 0, 0.5),
+                0px 18px 23px rgba(0, 0, 0, 0.5);
+}
